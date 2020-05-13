@@ -1,6 +1,6 @@
 version draft-2
 
-foo
+foo {}{}{}{}{{{{{ this could not be possibly valid
 
 task hello {
   String name
