@@ -1,5 +1,7 @@
 version draft-2
 
+foo
+
 task hello {
   String name
 
