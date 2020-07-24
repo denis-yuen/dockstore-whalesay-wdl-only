@@ -1,7 +1,7 @@
 version: 1.2
 workflows:
   - subclass: wdl
-    name: alternate1
+    name: alternate2
     primaryDescriptorPath: /Dockstore.wdl
     testParameterFiles:
       - /dockstore.cwl.json
