@@ -14,7 +14,7 @@ task hello {
   }
   
   meta {
-    author: "Funk it Souza Falooza"
+    author: "Funk it Souza Falooza Baloney"
     email: "not-all-that-broken@gmail.com"
     description: "This is Sparta, kinda"
   }
